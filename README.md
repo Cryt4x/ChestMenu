@@ -7,7 +7,8 @@ A plugin which provides (soon a customizable) Chest Menu f.e. game-modes etc
 - Creative
 - Adventure
 - Spectator
-2. Switch to next Menu (WIP)
+2. Switching to next Menu (WIP)
+3. Opening Menu with "/ti" (ti -> => technical interfce)
 
 # WIP
 

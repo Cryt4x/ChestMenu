@@ -1,0 +1,13 @@
+name: InvMenu
+author: CryT4x
+version: 0.22
+api-version: 1.14
+main: de.cryt4x.invmenu.main.Main
+website: https://cryt4x.blogspot.com/
+commands:
+   invmenuinfo:
+      aliases: [ctpl4]
+      description: Shows info about the plugin!
+   ti:
+      aliases: [technicInterface]
+      description: Opens technic interface

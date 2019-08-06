@@ -1,5 +1,5 @@
 # ChestMenu
-A plugin which provides (soon a customizable) Chest Menu f.e. game-modes etc
+A plugin which provides (soon a customizable) Chest Menu f.e. game-modes etc.
 CUI (Chest User Interface)
 
 # Currently Options
